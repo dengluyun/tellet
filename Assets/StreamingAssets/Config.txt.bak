@@ -1,0 +1,4 @@
+PhotonIP?192.168.0.10:5055
+01C
+URL&F:/ZJ-Project/Project2022/FebruaryProject/CSK181_PAV/EXE/Video/
+Order&-f gdigrab -framerate 15 -video_size 1920*1080 -i desktop -pix_fmt yuv420p
